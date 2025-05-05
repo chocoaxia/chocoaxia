@@ -1,4 +1,11 @@
-## Hi there 👋
+"The Universe is pretty big place. If it's just us, seems like an awful waste of space." - Carl Sagan
+
+- 👋 Hello, I'm Sayan
+- 👀 I'm interested in astronomical observations and gravitational wave lensing among other things :)
+- 🌱 I’m currently learning scientific computing in python, and basics of Quantum computing.
+- 😄 Pronouns: He/him
+- 📫 You can reach out to me via my email: sarkar.sayankr0103@gmail.com
+
 
 <!--
 **chocoaxia/chocoaxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +19,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on exciting Computational Astrophysics Projects
 - ⚡ Fun fact: ...
 -->
