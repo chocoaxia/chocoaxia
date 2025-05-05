@@ -1,7 +1,7 @@
 "The Universe is pretty big place. If it's just us, seems like an awful waste of space." - Carl Sagan
 
 - 👋 Hello, I'm Sayan
-- 👀 I'm interested in astronomical observations and gravitational wave lensing among other things :)
+- 👀 I'm curious about astronomical observations and gravitational wave lensing among other things :)
 - 🌱 I’m currently learning scientific computing in python, and basics of Quantum computing.
 - 😄 Pronouns: He/him
 - 📫 You can reach out to me via my email: sarkar.sayankr0103@gmail.com
